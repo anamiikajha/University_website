@@ -306,3 +306,14 @@ h3{
     margin-bottom: 20px;
     font-weight: 600;
 }
+@media screen and (min-width: 700px) {
+    #show_button {
+      display: none;
+    }
+  }
+
+  @media screen and (min-width: 700px) {
+    #hide_button {
+      display: none;
+    }
+  }
