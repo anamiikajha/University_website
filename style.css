@@ -263,7 +263,7 @@ h3{
     text-align: left;
 }
 .testimonials-col .fa{
-    color: #f44336;
+    color:  #C0C0C0;
 }
 @media(max-width: 700px){
     .testimonials-col img{
