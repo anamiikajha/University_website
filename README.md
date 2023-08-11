@@ -1,6 +1,7 @@
 # UniversityWebsite
-Simple multi-page wesbite with pure HTML, CSS
+Simple multi-page wesbite with pure HTML, CSS, JavaScript
 
+# UniversityWebsite Preview
 - Home page
 >
 ![image](https://github.com/anamiikajha/universityWebsite/assets/89740849/782472ce-a0cc-48e6-9e00-ba0a61a3fe32)
