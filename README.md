@@ -8,10 +8,11 @@ Simple multi-page wesbite with pure HTML, CSS, JavaScript
  ![image](https://github.com/anamiikajha/universityWebsite/assets/89740849/782472ce-a0cc-48e6-9e00-ba0a61a3fe32)
 >
 - Responsive navbar overview
+
   ![image](https://github.com/anamiikajha/University_website/assets/89740849/92ceb860-b544-42b7-b4c8-8a8f98bd5ac0)
 > 
 - Courses overview
->
+  
  ![image](https://github.com/anamiikajha/universityWebsite/assets/89740849/16198558-9933-436e-a8ab-d8a817ebfedc)
 >
 - Campus insights overview
