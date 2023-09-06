@@ -1,5 +1,5 @@
 # University-website
-Simple multi-page wesbite with pure HTML, CSS, JavaScript
+Simple multi-page wesbite with pure vanilla HTML, CSS, JavaScript
 
 # University-website Preview
 
