@@ -186,7 +186,7 @@ h3{
     transition: 0.5;
 }
 .layer:hover{
-    background: rgba(0.43, 0.12, 0, 0.08);
+    background: rgba(174, 202, 220, 0.8);
 }
 .layer h3{
     width: 100%;
