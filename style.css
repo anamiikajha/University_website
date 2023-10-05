@@ -39,7 +39,7 @@ nav img{
     content:'';
     width: 0%;
     height: 2px;
-    background: #87CEEB;
+    background: #293241;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -76,8 +76,8 @@ nav img{
    cursor: pointer;
 }
 .hero-btn:hover{
-    border: 1px solid #87CEEB;
-    background: #87CEEB;
+    border: 1px solid #293241;
+    background: #293241;
     transition: 1s;
 }
 nav.fa{
@@ -92,7 +92,7 @@ nav.fa{
 }
 .nav-links {
     position: absolute;
-    background: #87CEEB;
+    background: #293241;
     height: 100vh;
     width: 200px;
     top: 0;
@@ -186,7 +186,7 @@ h3{
     transition: 0.5;
 }
 .layer:hover{
-    background: rgba(226,0,0,0.7);
+    background: rgb(142, 202, 230);
 }
 .layer h3{
     width: 100%;
@@ -243,7 +243,7 @@ h3{
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
-    background: #fff3f3;
+    background: #3066be;
     padding: 25px;
     cursor: pointer;
     display: flex;
