@@ -39,7 +39,7 @@ nav img{
     content:'';
     width: 0%;
     height: 2px;
-    background: #f44336;
+    background: #87CEEB;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -76,8 +76,8 @@ nav img{
    cursor: pointer;
 }
 .hero-btn:hover{
-    border: 1px solid #f44336;
-    background: #f44336;
+    border: 1px solid #87CEEB;
+    background: #87CEEB;
     transition: 1s;
 }
 nav.fa{
@@ -92,7 +92,7 @@ nav.fa{
 }
 .nav-links {
     position: absolute;
-    background: #f44336;
+    background: #87CEEB;
     height: 100vh;
     width: 200px;
     top: 0;
@@ -137,7 +137,7 @@ p{
 }
 .course-col{
     flex-basis: 31%;
-    background: #fff3f3;
+    background: #e5dada;
     border-radius: 10px;
     margin-bottom:  5%;
     padding: 20px 12px;
