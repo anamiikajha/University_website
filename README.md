@@ -5,12 +5,11 @@ Simple multi-page wesbite with pure vanilla HTML, CSS, JavaScript
 
 - Home page overview
 >
- ![image](https://github.com/anamiikajha/University_website/assets/89740849/48629c90-ee6b-4982-bbd7-7d49c3d59aa5)
-
+![image](https://github.com/anamiikajha/University_website/assets/89740849/235bf6c3-03a0-4562-adf5-7065a3f8faa1)
 >
 - Responsive home-page navbar overview
-
-  ![image](https://github.com/anamiikajha/University_website/assets/89740849/92ceb860-b544-42b7-b4c8-8a8f98bd5ac0)
+>
+![image](https://github.com/anamiikajha/University_website/assets/89740849/48629c90-ee6b-4982-bbd7-7d49c3d59aa5)
 > 
 - Courses overview
   
@@ -18,7 +17,7 @@ Simple multi-page wesbite with pure vanilla HTML, CSS, JavaScript
 >
 - Campus insights overview
 >
- ![image](https://github.com/anamiikajha/universityWebsite/assets/89740849/b6596ef0-ef35-4c66-a31c-36605c0be251)
+![image](https://github.com/anamiikajha/University_website/assets/89740849/93f85a45-eb45-4666-a60a-8c4821282092)
 >
 - Facility overview
 >
