@@ -5,7 +5,8 @@ Simple multi-page wesbite with pure vanilla HTML, CSS, JavaScript
 
 - Home page overview
 >
- ![image](https://github.com/anamiikajha/universityWebsite/assets/89740849/782472ce-a0cc-48e6-9e00-ba0a61a3fe32)
+ ![image](https://github.com/anamiikajha/University_website/assets/89740849/48629c90-ee6b-4982-bbd7-7d49c3d59aa5)
+
 >
 - Responsive home-page navbar overview
 
